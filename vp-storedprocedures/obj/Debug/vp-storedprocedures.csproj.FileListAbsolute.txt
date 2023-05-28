@@ -1,0 +1,11 @@
+D:\New folder\vp-storedprocedures\bin\Debug\vp-storedprocedures.exe.config
+D:\New folder\vp-storedprocedures\bin\Debug\vp-storedprocedures.exe
+D:\New folder\vp-storedprocedures\bin\Debug\vp-storedprocedures.pdb
+D:\New folder\vp-storedprocedures\obj\Debug\vp-storedprocedures.csproj.AssemblyReference.cache
+D:\New folder\vp-storedprocedures\obj\Debug\vp-storedprocedures.csproj.SuggestedBindingRedirects.cache
+D:\New folder\vp-storedprocedures\obj\Debug\vp_storedprocedures.Form1.resources
+D:\New folder\vp-storedprocedures\obj\Debug\vp_storedprocedures.Properties.Resources.resources
+D:\New folder\vp-storedprocedures\obj\Debug\vp-storedprocedures.csproj.GenerateResource.cache
+D:\New folder\vp-storedprocedures\obj\Debug\vp-storedprocedures.csproj.CoreCompileInputs.cache
+D:\New folder\vp-storedprocedures\obj\Debug\vp-storedprocedures.exe
+D:\New folder\vp-storedprocedures\obj\Debug\vp-storedprocedures.pdb

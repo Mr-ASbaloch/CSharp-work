@@ -1,0 +1,17 @@
+D:\New folder\menus bar\bin\Debug\net6.0-windows\menus bar.exe
+D:\New folder\menus bar\bin\Debug\net6.0-windows\menus bar.deps.json
+D:\New folder\menus bar\bin\Debug\net6.0-windows\menus bar.runtimeconfig.json
+D:\New folder\menus bar\bin\Debug\net6.0-windows\menus bar.dll
+D:\New folder\menus bar\bin\Debug\net6.0-windows\menus bar.pdb
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.csproj.AssemblyReference.cache
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus_bar.Form1.resources
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.csproj.GenerateResource.cache
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.AssemblyInfoInputs.cache
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.AssemblyInfo.cs
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.csproj.CoreCompileInputs.cache
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.dll
+D:\New folder\menus bar\obj\Debug\net6.0-windows\refint\menus bar.dll
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.pdb
+D:\New folder\menus bar\obj\Debug\net6.0-windows\menus bar.genruntimeconfig.cache
+D:\New folder\menus bar\obj\Debug\net6.0-windows\ref\menus bar.dll

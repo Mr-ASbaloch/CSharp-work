@@ -1,0 +1,6 @@
+D:\New folder\Classcalculator\obj\Debug\Classcalculator.csproj.AssemblyReference.cache
+D:\New folder\Classcalculator\obj\Debug\Classcalculator.csproj.CoreCompileInputs.cache
+D:\New folder\Classcalculator\bin\Debug\Classcalculator.dll
+D:\New folder\Classcalculator\bin\Debug\Classcalculator.pdb
+D:\New folder\Classcalculator\obj\Debug\Classcalculator.dll
+D:\New folder\Classcalculator\obj\Debug\Classcalculator.pdb

@@ -1,0 +1,20 @@
+D:\New folder\clinic system\bin\Debug\net6.0-windows\clinic system.exe
+D:\New folder\clinic system\bin\Debug\net6.0-windows\clinic system.deps.json
+D:\New folder\clinic system\bin\Debug\net6.0-windows\clinic system.runtimeconfig.json
+D:\New folder\clinic system\bin\Debug\net6.0-windows\clinic system.dll
+D:\New folder\clinic system\bin\Debug\net6.0-windows\clinic system.pdb
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.vbproj.AssemblyReference.cache
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic_system.Form1.resources
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic_system.Resources.resources
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.vbproj.GenerateResource.cache
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.AssemblyInfoInputs.cache
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.AssemblyInfo.vb
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.vbproj.CoreCompileInputs.cache
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.dll
+D:\New folder\clinic system\obj\Debug\net6.0-windows\refint\clinic system.dll
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.pdb
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic system.genruntimeconfig.cache
+D:\New folder\clinic system\obj\Debug\net6.0-windows\ref\clinic system.dll
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic_system.Login.resources
+D:\New folder\clinic system\obj\Debug\net6.0-windows\clinic_system.patient.resources

@@ -1,0 +1,12 @@
+D:\New folder\WinFormsLibrary1\bin\Debug\net6.0-windows\WinFormsLibrary1.deps.json
+D:\New folder\WinFormsLibrary1\bin\Debug\net6.0-windows\WinFormsLibrary1.dll
+D:\New folder\WinFormsLibrary1\bin\Debug\net6.0-windows\WinFormsLibrary1.pdb
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.csproj.AssemblyReference.cache
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.AssemblyInfoInputs.cache
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.AssemblyInfo.cs
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.csproj.CoreCompileInputs.cache
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.dll
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\refint\WinFormsLibrary1.dll
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\WinFormsLibrary1.pdb
+D:\New folder\WinFormsLibrary1\obj\Debug\net6.0-windows\ref\WinFormsLibrary1.dll

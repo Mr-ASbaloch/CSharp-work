@@ -1,0 +1,14 @@
+D:\New folder\calcul.library\bin\Debug\calcul.library.exe.config
+D:\New folder\calcul.library\bin\Debug\calcul.library.exe
+D:\New folder\calcul.library\bin\Debug\calcul.library.pdb
+D:\New folder\calcul.library\bin\Debug\Classcalculator.dll
+D:\New folder\calcul.library\bin\Debug\Classcalculator.pdb
+D:\New folder\calcul.library\obj\Debug\calcul.library.csproj.AssemblyReference.cache
+D:\New folder\calcul.library\obj\Debug\calcul.library.csproj.SuggestedBindingRedirects.cache
+D:\New folder\calcul.library\obj\Debug\calcul.library.Form1.resources
+D:\New folder\calcul.library\obj\Debug\calcul.library.Properties.Resources.resources
+D:\New folder\calcul.library\obj\Debug\calcul.library.csproj.GenerateResource.cache
+D:\New folder\calcul.library\obj\Debug\calcul.library.csproj.CoreCompileInputs.cache
+D:\New folder\calcul.library\obj\Debug\calcul.library.csproj.CopyComplete
+D:\New folder\calcul.library\obj\Debug\calcul.library.exe
+D:\New folder\calcul.library\obj\Debug\calcul.library.pdb

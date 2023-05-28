@@ -1,0 +1,11 @@
+D:\New folder\vp-calculator\bin\Debug\vp-calculator.exe.config
+D:\New folder\vp-calculator\bin\Debug\vp-calculator.exe
+D:\New folder\vp-calculator\bin\Debug\vp-calculator.pdb
+D:\New folder\vp-calculator\obj\Debug\vp-calculator.csproj.AssemblyReference.cache
+D:\New folder\vp-calculator\obj\Debug\vp-calculator.csproj.SuggestedBindingRedirects.cache
+D:\New folder\vp-calculator\obj\Debug\vp_calculator.Form1.resources
+D:\New folder\vp-calculator\obj\Debug\vp_calculator.Properties.Resources.resources
+D:\New folder\vp-calculator\obj\Debug\vp-calculator.csproj.GenerateResource.cache
+D:\New folder\vp-calculator\obj\Debug\vp-calculator.csproj.CoreCompileInputs.cache
+D:\New folder\vp-calculator\obj\Debug\vp-calculator.exe
+D:\New folder\vp-calculator\obj\Debug\vp-calculator.pdb

@@ -1,0 +1,6 @@
+D:\New folder\vp-library\bin\Debug\vp-library.dll
+D:\New folder\vp-library\bin\Debug\vp-library.pdb
+D:\New folder\vp-library\obj\Debug\vp-library.csproj.AssemblyReference.cache
+D:\New folder\vp-library\obj\Debug\vp-library.csproj.CoreCompileInputs.cache
+D:\New folder\vp-library\obj\Debug\vp-library.dll
+D:\New folder\vp-library\obj\Debug\vp-library.pdb

@@ -1,0 +1,11 @@
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.csproj.AssemblyReference.cache
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.csproj.SuggestedBindingRedirects.cache
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.Form1.resources
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.Properties.Resources.resources
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.csproj.GenerateResource.cache
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.csproj.CoreCompileInputs.cache
+D:\New folder\dbo.hrm\bin\Debug\dbo.hrm.exe.config
+D:\New folder\dbo.hrm\bin\Debug\dbo.hrm.exe
+D:\New folder\dbo.hrm\bin\Debug\dbo.hrm.pdb
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.exe
+D:\New folder\dbo.hrm\obj\Debug\dbo.hrm.pdb

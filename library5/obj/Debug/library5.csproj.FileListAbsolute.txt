@@ -1,0 +1,6 @@
+D:\New folder\library5\bin\Debug\library5.dll
+D:\New folder\library5\bin\Debug\library5.pdb
+D:\New folder\library5\obj\Debug\library5.csproj.AssemblyReference.cache
+D:\New folder\library5\obj\Debug\library5.csproj.CoreCompileInputs.cache
+D:\New folder\library5\obj\Debug\library5.dll
+D:\New folder\library5\obj\Debug\library5.pdb
